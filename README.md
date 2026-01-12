@@ -28,7 +28,7 @@ The goal is to help you preview the UI before buying.
 
 ## Screenshots
 
-Use left/right tap or arrow buttons in the demo to browse screenshots.
+Use left/right taps in the demo to browse screenshots.
 
 The slides include:
 - Bot list screen

@@ -73,14 +73,20 @@ To build real AI chat apps using OpenAI, Gemini, or any custom engine, purchase 
 
 Includes:
 
-1. Real widgets
+  1. Real widgets
 
-2. AI engine wiring
+  2. AI engine wiring
 
-3. Bot controllers
+  3. Bot controllers
 
-4. Riverpod architecture
+  4. Riverpod architecture
 
-5. Commercial license
+  5. Commercial license
 
-6. Documentation
+  6. Documentation
+
+
+Demo License
+
+Use this template for preview and learning only.
+See LICENSE-DEMO.txt for details.

